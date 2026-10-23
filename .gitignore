@@ -10,3 +10,4 @@ target
 *.iml
 .clj-kondo
 .portal/
+.lsp/
