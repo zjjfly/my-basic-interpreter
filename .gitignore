@@ -1,0 +1,12 @@
+### Clojure template
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+target
+.nrepl-port
+.cpcache
+.idea
+*.iml
+.clj-kondo
+.portal/
